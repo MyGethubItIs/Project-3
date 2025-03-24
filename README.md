@@ -1,2 +1,2 @@
-# Project-3
+# ShowMyBrand  
 Promotional website to promote the brand.
